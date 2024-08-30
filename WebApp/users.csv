@@ -1,0 +1,3 @@
+username,email,password,is_admin,last_login,is_active
+admin,admin@gmail.com,admin,True,2024-08-30T17:44:00.209768,True
+vumichien,vumichien1692@gmail.com,123456,True,2024-08-30T17:43:53.120071,True
